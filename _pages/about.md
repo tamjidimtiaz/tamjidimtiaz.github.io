@@ -17,10 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylvania, advised by Dr. Kathryn A Davis, in the Center for Neuroengineering and Therapeutics. Throughout my PhD, I developed substantial expertise in handling large-scale neuroimaging datasets, performing advanced statistical analyses, and applying machine and deep learning methods to study cognitive network in the epileptic brain.
+# 👤 About Me:
 
+I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylvania, advised by Dr. Kathryn A Davis, in the Center for Neuroengineering and Therapeutics. With a background in Elelctrical Engineering and Throughout my PhD, I developed substantial expertise in handling large-scale neuroimaging datasets, performing advanced statistical analyses, and applying machine and deep learning methods to study cognitive network in the epileptic brain.
 
+# ⚠️ Looking for Internship Opportunities
+With a background at the intersection of Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking internship opportunities in Data Science and AI/ML—particularly those focused on biomedical applications—for Summer 2026.
 
+# 🗣️ Research Interest
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
