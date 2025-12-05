@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-- *2024.6* Shovik Bandyopadhyay, Michael Duffy, Kyung Jin Ahn, Minxing Pang, David Smith, Gwendolyn Duncan,
+- *2024.6*: Shovik Bandyopadhyay, Michael Duffy, Kyung Jin Ahn, Minxing Pang, David Smith, Gwendolyn Duncan,
 Jonathan Sussman, Iris Zhang, Jeffrey Huang, Yulieh Lin, Barbara Xiong, Tamjid Imtiaz, Chia-Hui Chen,
 Anusha Thadi, Changya Chen, Jason Xu, Melissa Reichart, Vinodh Pillai, Oraine Snaith, Derek Oldridge,
 Siddharth Bhattacharyya, Ivan Maillard, Martin Carroll, Charles Nelson, Ling Qin, Kai Tan, _Mapping the
