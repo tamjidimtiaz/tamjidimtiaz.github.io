@@ -46,12 +46,13 @@ Cell, Vol. 187, Issue 12, pp. 3120-3140. [Link](https://www.cell.com/cell/fullte
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2027.01,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
+- *2019.04 - 2022.07, MSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
+- *2014.06 - 2018.10, BSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Presentations
+- *2025.12*, Presented in American Epilepsy Society Annual Meeting 2025, Title: _Language and Verbal Memory Network Alterations in Temporal Lobe Epilepsy _
+- *2024.12*, Presented in American Epilepsy Society Annual Meeting 2024, Title: _High-field 7T Image Synthesis Using Generative Adversarial Network for Enhancing Epilepsy Diagnosis_
+- *2019.11*, Presented in 2019 IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON), Title: _Automated Brain Tumor Segmentation from MRI Data Based on Local Region Analysis_
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
