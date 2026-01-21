@@ -43,10 +43,6 @@ Siddharth Bhattacharyya, Ivan Maillard, Martin Carroll, Charles Nelson, Ling Qin
 Cellular Biogeography of Human Bone Marrow Niches Using Single-Cell Transcriptomics and Proteomic Imaging_,
 Cell, Vol. 187, Issue 12, pp. 3120-3140. [Link](https://www.cell.com/cell/fulltext/S0092-8674(24)00408-2)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2022.09 - 2027.01,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
 - *2019.04 - 2022.07, MSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
