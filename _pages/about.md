@@ -25,12 +25,14 @@ I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylv
 With a background at the intersection of Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking internship opportunities in Data Science and AI/ML—particularly those focused on biomedical applications—for Summer 2026.
 
 # 🗣️ Research Interest
-My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>480+
+My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>480+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 I presented my work titled "Language and Verbal Memory Network Alterations in Temporal Lobe Epilepsy" on American Epilepsy Society Annual Meeting 2025.
+- *2025.09*: &nbsp;🎉🎉 We released a large dataset comprising multimodal paired 3T and 7T MRI scans collected from patients with drug-resistant focal epilepsy along with intracranial EEG data. <a href='[https://discover.pennsieve.io/datasets/459/version/1](https://discover.pennsieve.io/datasets/459/version/1)'>
+- *2024.12*: &nbsp;🎉🎉 I presented my work titled "High-field 7T Image Synthesis Using Generative Adversarial Network for Enhancing Epilepsy Diagnosis " on American Epilepsy Society Annual Meeting 2024.
+- *2024.06*: &nbsp;🎉🎉 Our paper titled "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging" is published in Cell. Congratulations to the coauthors and collaborators.
 
 # 📝 Publications 
 
