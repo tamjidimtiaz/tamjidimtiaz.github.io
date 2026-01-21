@@ -19,13 +19,13 @@ redirect_from:
 
 # 👤 About Me:
 
-I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylvania, advised by Dr. Kathryn A Davis, in the Center for Neuroengineering and Therapeutics. With a background in Elelctrical Engineering and Throughout my PhD, I developed substantial expertise in handling large-scale neuroimaging datasets, performing advanced statistical analyses, and applying machine and deep learning methods to study cognitive network in the epileptic brain.
+I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylvania, advised by Dr. Kathryn A Davis, in the Center for Neuroengineering and Therapeutics. With a background in Electrical & Electronics Engineering and Throughout my PhD, I developed substantial expertise in handling large-scale neuroimaging datasets, performing advanced statistical analyses, and applying machine and deep learning methods to study cognitive network in the epileptic brain.
 
 # ⚠️ Looking for Internship Opportunities
 With a background at the intersection of Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking internship opportunities in Data Science and AI/ML—particularly those focused on biomedical applications—for Summer 2026.
 
 # 🗣️ Research Interest
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>480+
 
 
 # 🔥 News
