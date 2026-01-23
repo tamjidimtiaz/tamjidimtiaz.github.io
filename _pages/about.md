@@ -35,9 +35,16 @@ My research interest includes Biomedical Signal Processing and Machine Learning.
 - *2024.06*: &nbsp;🎉🎉 Our paper titled "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging" is published in Cell. Congratulations to the coauthors and collaborators.
 
 # 📝 Publications 
- Gwendolyn Duncan7 ∙ Iris Zhang9 ∙ Jeffrey Huang7 ∙ Yulieh Lin3 ∙ Barbara Xiong2,8 ∙ Tamjid Imtiaz
-- *2024.6*: Bandyopadhyay, S., Duffy, M.P., Ahn, K.J., Sussman, J.H., Pang, M., Smith, D., Duncan, G., Zhang, I., Huang, J., Lin, Y., Xiong, B., /textbf{Imtiaz, T.}, and Tan, K., 2024. Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging. Cell, 187(12), pp.3120-3140.
-- *2024.6*: T. Imtiaz, S. A. Fattah and M. Saquib, "ConDANet: Contourlet Driven Attention Network for Automatic Nuclei Segmentation in Histopathology Images," in IEEE Access, vol. 11, pp. 129321-129330, 2023, doi: 10.1109/ACCESS.2023.3321799.
+
+- *2024.6*: Bandyopadhyay, S., Duffy, M.P., Ahn, K.J., Sussman, J.H., Pang, M., Smith, D., Duncan, G., Zhang, I., Huang, J., Lin, Y., Xiong, B., **Imtiaz, T.**, and Tan, K., 2024. Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging. Cell, 187(12), pp.3120-3140.
+- *2023.10*: **Imtiaz, T.**, Fattah, S.A. and Saquib, M., 2023. ConDANet: Contourlet driven attention network for automatic nuclei segmentation in histopathology images. IEEE Access, 11, pp.129321-129330.
+- *2023.10*: **Imtiaz, T.**, Fattah, S.A. and Kung, S.Y., 2023. BAWGNet: Boundary aware wavelet guided network for the nuclei segmentation in histopathology images. Computers in Biology and Medicine, 165, p.107378.
+- *2023.08*: Jain, S., Pei, L., Spraggins, J.M., Angelo, M., Carson, J.P., Gehlenborg, N., Ginty, F., Gonçalves, J.P., Hagood, J.S., Hickey, J.W. and Kelleher, N.L., 2023. Advances and prospects for the human BioMolecular atlas Program (HuBMAP). Nature cell biology, 25(8), pp.1089-1100.
+- *2023.01*: **Imtiaz, T.**, Doumani, J., Tay, F., Komatsu, N., Marcon, S., Nakamura, M., Ghosh, S., Baydin, A., Kono, J. and Zubair, A., 2023. Facile alignment estimation in carbon nanotube films using image processing. Signal Processing, 202, p.108751.
+- *2021.08*: Saif, A.F.M., **Imtiaz, T.**, Rifat, S., Shahnaz, C., Zhu, W.P. and Ahmad, M.O., 2021. CapsCovNet: A modified capsule network to diagnose Covid-19 from multimodal medical imaging. IEEE Transactions on Artificial Intelligence, 2(6), pp.608-617.
+- *2021.08*: Saif, A.F.M., **Imtiaz, T.**, Shahnaz, C., Zhu, W.P. and Ahmad, M.O., 2021. Exploiting cascaded ensemble of features for the detection of tuberculosis using chest radiographs. IEEE Access, 9, pp.112388-112399.
+- *2019.12*: **Imtiaz, T.**, Rifat, S., Fattah, S.A. and Wahid, K.A., 2019. Automated brain tumor segmentation based on multi-planar superpixel level features extracted from 3D MR images. IEEE Access, 8, pp.25335-25349.
+- *2019.12*: **Imtiaz, T.**, Rifat, S. and Fattah, S.A., 2019, November. Automated brain tumor segmentation from MRI data based on local region analysis. In 2019 IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON) (pp. 107-110). IEEE.
 
 # 📖 Educations
 - *2022.09 - 2027.01,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
