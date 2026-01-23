@@ -35,13 +35,9 @@ My research interest includes Biomedical Signal Processing and Machine Learning.
 - *2024.06*: &nbsp;🎉🎉 Our paper titled "Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging" is published in Cell. Congratulations to the coauthors and collaborators.
 
 # 📝 Publications 
-
-- *2024.6*: Shovik Bandyopadhyay, Michael Duffy, Kyung Jin Ahn, Minxing Pang, David Smith, Gwendolyn Duncan,
-Jonathan Sussman, Iris Zhang, Jeffrey Huang, Yulieh Lin, Barbara Xiong, Tamjid Imtiaz, Chia-Hui Chen,
-Anusha Thadi, Changya Chen, Jason Xu, Melissa Reichart, Vinodh Pillai, Oraine Snaith, Derek Oldridge,
-Siddharth Bhattacharyya, Ivan Maillard, Martin Carroll, Charles Nelson, Ling Qin, Kai Tan, _Mapping the
-Cellular Biogeography of Human Bone Marrow Niches Using Single-Cell Transcriptomics and Proteomic Imaging_,
-Cell, Vol. 187, Issue 12, pp. 3120-3140. [Link](https://www.cell.com/cell/fulltext/S0092-8674(24)00408-2)
+ Gwendolyn Duncan7 ∙ Iris Zhang9 ∙ Jeffrey Huang7 ∙ Yulieh Lin3 ∙ Barbara Xiong2,8 ∙ Tamjid Imtiaz
+- *2024.6*: Bandyopadhyay, S., Duffy, M.P., Ahn, K.J., Sussman, J.H., Pang, M., Smith, D., Duncan, G., Zhang, I., Huang, J., Lin, Y., Xiong, B., /textbf{Imtiaz, T.}, and Tan, K., 2024. Mapping the cellular biogeography of human bone marrow niches using single-cell transcriptomics and proteomic imaging. Cell, 187(12), pp.3120-3140.
+- *2024.6*: T. Imtiaz, S. A. Fattah and M. Saquib, "ConDANet: Contourlet Driven Attention Network for Automatic Nuclei Segmentation in Histopathology Images," in IEEE Access, vol. 11, pp. 129321-129330, 2023, doi: 10.1109/ACCESS.2023.3321799.
 
 # 📖 Educations
 - *2022.09 - 2027.01,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
