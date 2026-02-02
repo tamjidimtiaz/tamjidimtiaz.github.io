@@ -6,14 +6,14 @@ main:
   - title: "Research Interest"
     url: "/#-research-interest"
 
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "News"
     url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
-
-  - title: "Educations"
-    url: "/#-educations"
 
   - title: "Presentations"
     url: "/#-presentations"
