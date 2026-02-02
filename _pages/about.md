@@ -24,6 +24,11 @@ I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylv
 # ⚠️ Looking for Internship Opportunities
 With a background at the intersection of Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking internship opportunities in Data Science and AI/ML—particularly those focused on biomedical applications—for Summer 2026.
 
+# 📖 Educations
+- *2022.09 - 2027.01,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
+- *2019.04 - 2022.07, MSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
+- *2014.06 - 2018.10, BSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
+
 # 🗣️ Research Interest
 My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>500+
 
@@ -46,11 +51,6 @@ My research interest includes Biomedical Signal Processing and Machine Learning.
 - *2021.08*: Saif, A.F.M., **Imtiaz, T.**, Shahnaz, C., Zhu, W.P. and Ahmad, M.O., 2021. Exploiting cascaded ensemble of features for the detection of tuberculosis using chest radiographs. IEEE Access, 9, pp.112388-112399.
 - *2019.12*: **Imtiaz, T.**, Rifat, S., Fattah, S.A. and Wahid, K.A., 2019. Automated brain tumor segmentation based on multi-planar superpixel level features extracted from 3D MR images. IEEE Access, 8, pp.25335-25349.
 - *2019.12*: **Imtiaz, T.**, Rifat, S. and Fattah, S.A., 2019, November. Automated brain tumor segmentation from MRI data based on local region analysis. In 2019 IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON) (pp. 107-110). IEEE.
-
-# 📖 Educations
-- *2022.09 - 2027.01,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
-- *2019.04 - 2022.07, MSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
-- *2014.06 - 2018.10, BSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
 
 # 💬 Presentations
 - *2025.12*, Presented in American Epilepsy Society Annual Meeting 2025, Title: _Language and Verbal Memory Network Alterations in Temporal Lobe Epilepsy _
