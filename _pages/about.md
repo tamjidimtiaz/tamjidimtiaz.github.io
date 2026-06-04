@@ -21,8 +21,8 @@ redirect_from:
 
 I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylvania, advised by Dr. Kathryn A Davis, in the Center for Neuroengineering and Therapeutics. With a background in Electrical & Electronics Engineering and Throughout my PhD, I developed substantial expertise in handling large-scale neuroimaging datasets, performing advanced statistical analyses, and applying machine and deep learning methods to study cognitive network in the epileptic brain.
 
-# ⚠️ Looking for Internship Opportunities
-With a background at the intersection of Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking internship opportunities in Data Science and AI/ML—particularly those focused on biomedical applications—for Summer 2026.
+# ⚠️ Looking for Full-time Opportunities
+With a background at the intersection of Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking Full-time opportunities in Data Science and AI/ML— from Spring 2027.
 
 # 🗣️ Research Interest
 My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>500+.
