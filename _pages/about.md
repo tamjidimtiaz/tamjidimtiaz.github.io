@@ -22,13 +22,13 @@ redirect_from:
 I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylvania, advised by Dr. Kathryn A Davis, in the Center for Neuroengineering and Therapeutics. With a background in Electrical & Electronics Engineering and Throughout my PhD, I developed substantial expertise in handling large-scale neuroimaging datasets, performing advanced statistical analyses, and applying machine and deep learning methods to study cognitive network in the epileptic brain.
 
 # ⚠️ Looking for Full-time Opportunities
-With a background at the intersection of Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking Full-time opportunities in Data Science and AI/ML— from Spring 2027.
+With a background spanning Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking full-time opportunities at the intersection of machine learning, statistical analysis, imaging, and big-data analysis, starting Jan 2027.
 
 # 🗣️ Research Interest
-My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>500+.
+My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>600+.
 
 # 📖 Educations
-- *2022.09 - 2027.01,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
+- *2022.09 - 2026.12,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
 - *2019.04 - 2022.07, MSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
 - *2014.06 - 2018.10, BSc Electrical & Electronics Engineering, Bangladesh University of Engineering & Technology.
 
