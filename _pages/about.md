@@ -25,7 +25,7 @@ I am a fourth year PhD Candidate in Bioengineering at the University of Pennsylv
 With a background spanning Electrical Engineering and Bioengineering, I enjoy tackling multidisciplinary challenges. I am seeking full-time opportunities at the intersection of machine learning, statistical analysis, imaging, and big-data analysis, starting Jan 2027.
 
 # 🗣️ Research Interest
-My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>600+.
+My research interest includes Biomedical Signal Processing and Machine Learning. I have published several papers in top international Publishers including Nature, Cell Press, IEEE, Elsevier with total <a href='[https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ](https://scholar.google.com/citations?hl=en&user=6_X9kHAAAAAJ)'>google scholar citations <strong><span id='total_cit'>450+.
 
 # 📖 Educations
 - *2022.09 - 2026.12,(Exp), PhD Candidate in Bioengineering, University of Pennsylvania.
