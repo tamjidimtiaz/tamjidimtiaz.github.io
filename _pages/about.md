@@ -34,6 +34,10 @@ My research interest includes Biomedical Signal Processing and Machine Learning.
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 I have been invited to give a talk in one of the platform sessions at the AES 2026 Annual Meeting. Congratulations to the collaborators of this project.
+- *2026.08*: &nbsp;🎉🎉 Our paper titled "Adaptive hub reorganization distinguishes cognitive preservation from decline in epilepsy" is available as a preprint in medRxiv. Congratulations to the coauthors and collaborators.
+- *2026.06*: &nbsp;🎉🎉 Our paper titled "Language network reorganization in temporal lobe epilepsy: insights from task-based functional MRI" is published in NeuroImage: Clinical. Congratulations to the coauthors and collaborators.
+- *2026.05*: &nbsp;🎉🎉 Our paper titled "A multimodal epilepsy dataset of paired 3-Tesla and 7-Tesla MRI and intracranial EEG" is published in Scientific Data. Congratulations to the coauthors and collaborators.
 - *2025.12*: &nbsp;🎉🎉 I presented my work titled "Language and Verbal Memory Network Alterations in Temporal Lobe Epilepsy" on American Epilepsy Society Annual Meeting 2025.
 - *2025.09*: &nbsp;🎉🎉 We released a large dataset comprising multimodal paired 3T and 7T MRI scans collected from patients with drug-resistant focal epilepsy along with intracranial EEG data. <a href='[https://discover.pennsieve.io/datasets/662/version/1](https://discover.pennsieve.io/datasets/662/version/1)'>
 - *2024.12*: &nbsp;🎉🎉 I presented my work titled "High-field 7T Image Synthesis Using Generative Adversarial Network for Enhancing Epilepsy Diagnosis " on American Epilepsy Society Annual Meeting 2024.
